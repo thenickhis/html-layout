@@ -1,0 +1,28 @@
+.left, .mid {
+	height: 900px;
+	width: 33.3333%;
+}
+
+.left {
+	background-color: #4D9AFF;
+	float: left;
+}
+
+.mid {
+	background-color: #53E0A1;
+	float: left;
+}
+
+.right {
+	height: 750px;
+	width: 33.3333%;
+	background-color: #C2EB71;
+	float: right;
+}
+
+.placeholder {
+	height: 150px;
+	background-color: red;
+	width:33.3333%;
+	float: right;
+}

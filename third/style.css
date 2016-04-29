@@ -1,0 +1,39 @@
+.topbar {
+	background-color: gray;
+	height: 70px;
+}
+
+.topbar div {
+	height: 80%;
+	width: 5%;
+	background-color: blue;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.texfield {
+	background-color: white;
+	height: 200px;
+}
+
+.blue, .cyan, .dullgreen, .yellow {
+	height: 95px;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.cyan {
+	background-color: #19FFD5;
+}
+
+.dullgreen {
+	background-color: green;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+
